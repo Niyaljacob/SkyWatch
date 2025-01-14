@@ -1,0 +1,8 @@
+{
+  "home": "Home",
+  "select_language": "Select Language",
+  "temperature": "Temperature",
+  "main_condition": "Condition",
+  "date_format": "EEEE, MMMM dd, yyyy",
+  "time_format": "hh:mm a"
+}
